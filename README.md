@@ -34,7 +34,7 @@ Lane x coordinates(This is the center of each lane at the hit line): **222, 326,
 Detect y coordinate(This is the highest coordinate you can look above the hit line, as the lanes stem outwards from the top): **651**
 
 **Identifying Notes**
-There are a total of 8 notes, 4 with the same color, which is part of the challenge, but others have unique ones. Each color is in hex format, and goes from the bottom of the note to the top. There's bound to be some possible variency, but these were the closest parts of data that I could gather. The background is fairly dark, but has no unified color:
+The images of the notes are within this repo, but I did some color detection to help out. There are a total of 8 notes, 4 with the same color, which is part of the challenge, but others have unique ones. Each color is in hex format, and goes from the bottom of the note to the top. There's bound to be some possible variency, but these were the closest parts of data that I could gather. The background is fairly dark, but has no unified color:
 
 Tap note: First 3 colors: **#2c6289, #49b6d0, #49b6d0** Main color: **#e3effe** Last 3 colors: **#bfa7f3, #9d89cf, #573f7a**
 
