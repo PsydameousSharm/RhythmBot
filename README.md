@@ -1,7 +1,7 @@
 # RhythmBot
 Open-source challenge: build a Python rhythm game bot utilzing ADB, with $10 reward to whoever first successfully completes it
 
-**Full challege**
+**Full challenge**
 
 Compatible with Windows 11
 
